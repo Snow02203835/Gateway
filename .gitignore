@@ -1,0 +1,5 @@
+# Project exclude paths
+/core/target/
+/privilegegateway/target/
+/privilegeservice/target/
+/privilegeservice-client/target/
